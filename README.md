@@ -7,10 +7,11 @@ Junior Web Developer Bootcamp, 13-week intensive web development program by Gene
 
 [INSTRUCTIONS](https://drive.google.com/file/d/1_s8mLhP__ImxoRqaImsYHXwPRrbLflcG/view)
 
-Setup instructions: 
-Steps to run app locally:
+####Setup instructions: 
 * Click [here](https://jensenrex.github.io/shoppingCart/) to view github page
-Technologies used: 
+
+####Technologies used: 
 * HTML
+* CSS
 * Bootstrap
 * Javascript
