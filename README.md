@@ -15,3 +15,5 @@ Junior Web Developer Bootcamp, 13-week intensive web development program by Gene
 * CSS
 * Bootstrap
 * Javascript
+
+https://www.section.io/engineering-education/javascript-shopping-cart-using-arrays-and-objects/
